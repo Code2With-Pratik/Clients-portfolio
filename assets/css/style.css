@@ -365,6 +365,10 @@ Start Banner Two Area
   left: 25px;
 }
 
+.single-banner-two-img img{
+  height: 700px;
+ 
+}
 
 /* -----------------------------------
 - Start About Three Area
