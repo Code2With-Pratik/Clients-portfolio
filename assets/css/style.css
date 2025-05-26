@@ -240,6 +240,7 @@ Start Banner Two Area
   z-index: 1;
   overflow: hidden;
   position: relative;
+  padding-top:100px
 }
 
 .banner-two-area .banner-two-shape-1 {
@@ -312,6 +313,7 @@ Start Banner Two Area
   letter-spacing: -0.03em;
   font-family: var(--fontFamily);
   margin-bottom: 22px;
+  padding-top: 1px;
 }
 
 .single-banner-two-content .banner-two-btn .default-btn {
@@ -366,7 +368,8 @@ Start Banner Two Area
 }
 
 .single-banner-two-img img{
-  height: 700px;
+ 
+  height:500px;
  
 }
 
