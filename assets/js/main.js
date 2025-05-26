@@ -411,7 +411,7 @@ const projectImages = [
       <div class="swiper-slide">
         <div class="projects-two-card">
           <div class="projects-img">
-           <img src="${url}" alt="projects" style="height: 600px; object-cover:  cover; width: 100%;" onclick="openFullscreen(this)" />
+           <img src="${url}" alt="projects" style="height: 600px; object-fit:  cover; width: 100%;" onclick="openFullscreen(this)" />
 
           </div>
         </div>
