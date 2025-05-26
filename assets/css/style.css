@@ -1046,7 +1046,8 @@ Start Services Area
 Start Recent Blog Area
 ---------------------------------------*/
 .blog-two-area {
-  background-color: #000000;
+    background: linear-gradient(to bottom, #c6bcb4, #fce8d9, #eee4d8);
+
 }
 
 /* -----------------------------------
@@ -1070,7 +1071,7 @@ Start Get In Touch Area
   right: 0;
   top: 0;
   bottom: 0;
-  background-color: rgba(7, 10, 6, 0.85);
+  background-color: rgba(25, 24, 21, 0.896);
   z-index: -1;
 }
 
@@ -1187,7 +1188,8 @@ Start MY Resume Area
 ---------------------------------------*/
 .resume-area {
   padding-bottom: 50px;
-  background-color: #F9F9F9;
+    background: linear-gradient(to bottom, #d1cac4, #fce8d9, #eee4d8);
+
 }
 
 .resume-area .section-title {
@@ -1228,15 +1230,16 @@ Start MY Resume Area
 }
 
 .single-resume-content.resume-two-content h3 {
-  color: #EEEEEE;
+  color: #181818;
 }
 
 .single-resume-content.resume-two-content .resume-card {
   background: -webkit-gradient(linear, right top, left top, color-stop(-11.94%, #0D120A), color-stop(155.13%, rgba(4, 5, 3, 0.3)));
-  background: linear-gradient(270deg, #0D120A -11.94%, rgba(4, 5, 3, 0.3) 155.13%);
+  background: linear-gradient(270deg, #d1cac4 -11.94%, rgba(212, 193, 164, 0.3) 155.13%);
   border-radius: 7px;
   -webkit-box-shadow: none;
-          box-shadow: none;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1), 
+            0 6px 10px rgba(0, 0, 0, 0.08);
   border: none;
 }
 
@@ -1249,7 +1252,7 @@ Start MY Resume Area
 }
 
 .single-resume-content.resume-two-content .resume-card h4 {
-  color: #B0B0B0;
+  color: #2c2b2b;
 }
 
 .single-resume-content.resume-two-content .resume-card h4::before {
@@ -1257,7 +1260,7 @@ Start MY Resume Area
 }
 
 .single-resume-content.resume-two-content .resume-card p {
-  color: #888888;
+  color: #575656;
 }
 
 .single-resume-content.resume-two-content .resume-card .resume-shape {
@@ -1265,15 +1268,16 @@ Start MY Resume Area
 }
 
 .single-resume-content.resume-two-content-bgd h3 {
-  color: #EEEEEE;
+  color: #2c2b2b;
 }
 
 .single-resume-content.resume-two-content-bgd .resume-card {
   background: -webkit-gradient(linear, right top, left top, color-stop(-11.94%, #0D120A), color-stop(155.13%, rgba(4, 5, 3, 0.3)));
-  background: linear-gradient(270deg, #0D120A -11.94%, rgba(4, 5, 3, 0.3) 155.13%);
+  background: linear-gradient(270deg, #d1cac4 -11.94%, rgba(212, 193, 164, 0.3) 155.13%);
   border-radius: 7px;
   -webkit-box-shadow: none;
-          box-shadow: none;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1), 
+            0 6px 10px rgba(0, 0, 0, 0.08);
   border: none;
   border-left: none !important;
 }
@@ -1283,11 +1287,11 @@ Start MY Resume Area
 }
 
 .single-resume-content.resume-two-content-bgd .resume-card h4 {
-  color: #B0B0B0;
+  color: #2f2e2eec;
 }
 
 .single-resume-content.resume-two-content-bgd .resume-card p {
-  color: #888888;
+  color: #595858;
 }
 
 .single-resume-content.resume-two-content-bgd .resume-card::after {
