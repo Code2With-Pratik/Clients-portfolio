@@ -35,7 +35,6 @@ This files table contents are outlined below>>>>>
   --fontSize: 16px;
 }
 
-
 body {
   font-size: var(--fontSize);
   font-weight: 400;
