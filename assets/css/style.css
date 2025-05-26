@@ -833,8 +833,7 @@ header a{
 Start What Can I Do Area
 ---------------------------------------*/
 .what-can-area {
-    background: linear-gradient(to bottom, #efe4d8, #d1cac4, #d1cac4);
-
+  background-color: #070A06;
 }
 
 .single-special-content .section-title {
@@ -942,7 +941,7 @@ Start What Can I Do Area
 Star Who Am I Area 
 ---------------------------------------*/
 .who-ami-area {
-  background: linear-gradient(to bottom, #c6bcb4, #fce8d9, #eee4d8, #eee4d8);
+  background-color: #040503;
   overflow: hidden;
 }
 
@@ -972,12 +971,12 @@ Star Who Am I Area
 }
 
 .single-who-ami-content .section-title h2 {
-  color: #292725;
+  color: #EEEEEE;
   margin-right: -15px;
 }
 
 .single-who-ami-content .section-title p {
-  color: #4e4c4c;
+  color: #888888;
 }
 
 .single-who-ami-content .who-ami-videography {
@@ -1004,15 +1003,13 @@ Star Who Am I Area
 }
 
 .single-who-ami-content .who-ami-videography .videography-content p {
-  color: #2f2e2e;
-  font-weight: 800;
+  color: #888888;
   line-height: 40px;
-  font-size: 20px;
 }
 
 .single-who-ami-content .who-ami-videography .videography-content h3 {
   font-size: 22px;
-  color: #666666;
+  color: #EEEEEE;
   line-height: 40px;
 }
 
@@ -1027,7 +1024,7 @@ Star Who Am I Area
 
 .single-who-ami-content .who-ami-btn .who-sine p {
   margin-top: 3px;
-  color: #666666;
+  color: #888888;
 }
 
 
