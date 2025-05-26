@@ -395,13 +395,12 @@ function showSliderByIndex(index) {
     }, timeAutoNext);
 }
 const projectImages = [
-     
-    "https://res.cloudinary.com/dw4ytpinj/image/upload/v1748064731/1000005081_k7cuq4.jpg",
-    "https://res.cloudinary.com/dw4ytpinj/image/upload/v1748064840/1000005100_mjdpsb.jpg",
-    "https://res.cloudinary.com/dw4ytpinj/image/upload/v1748063757/1000005264_ess2u6.jpg",
-    "https://res.cloudinary.com/dw4ytpinj/image/upload/v1748065087/IMG_20250119_192902_cwjb5r.jpg",
-    "https://res.cloudinary.com/dw4ytpinj/image/upload/v1748065135/IMG_20250206_210920_qdgzvs.jpg",
-    "https://res.cloudinary.com/dw4ytpinj/image/upload/v1748065198/IMG-20240922-WA0069_s0nfjs.jpg"
+    "assets/images/who-ami/1000005081_k7cuq4.jpg",
+    "assets/images/who-ami/1000005100_mjdpsb.jpg",
+    "assets/images/who-ami/1000005264_ess2u6.jpg",
+    "assets/images/who-ami/image.png",
+    "assets/images/who-ami/IMG_20250206_210920_qdgzvs.jpg",
+    "assets/images/who-ami/IMG-20240922-WA0069_s0nfjs.jpg"
   ];
 
   const swiperWrapper = document.getElementById("swiperWrapper");
