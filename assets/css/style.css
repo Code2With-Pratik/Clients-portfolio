@@ -19,7 +19,7 @@ This files table contents are outlined below>>>>>
   --bodyFontFamily: 'Nunito', sans-serif;
 
   /* Core Color Scheme */
-  --mainColor: #228B22;          /* Forest Green */
+  --mainColor: #42cf42;          /* Forest Green */
   --secondaryColor: #252725;     /* Lime Green */
   --accentGreen: #A8E6A2;        /* Soft Green (optional highlights) */
 
@@ -236,7 +236,7 @@ Start Get In Touch Area
 Start Banner Two Area
 ---------------------------------------*/
 .banner-two-area {
-  background-color: #070A06;
+  background: linear-gradient(to bottom, #cec4bb, #cfc4bc, #c5bbb3);
   z-index: 1;
   overflow: hidden;
   position: relative;
@@ -291,7 +291,7 @@ Start Banner Two Area
 }
 
 .single-banner-two-content .banner-2-text {
-  color: #888888;
+  color: #2b2a2a;
   font-family: var(--fontFamily);
   font-weight: 500;
   font-size: 18px;
@@ -308,7 +308,7 @@ Start Banner Two Area
   font-size: 100px;
   line-height: 125px;
   font-weight: 800;
-  color: rgb(247 86 44);
+  color: rgba(0, 0, 0, 0.801);
   letter-spacing: -0.03em;
   font-family: var(--fontFamily);
   margin-bottom: 22px;
