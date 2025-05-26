@@ -750,7 +750,7 @@ header a{
     z-index: 1000;
     width: 0%;
     height: 3px;
-    background-color: #ff4e75;
+    background-color: transparent;
     left: 0;
     top: 0;
 }
