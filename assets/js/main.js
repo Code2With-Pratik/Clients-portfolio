@@ -395,8 +395,7 @@ function showSliderByIndex(index) {
     }, timeAutoNext);
 }
 const projectImages = [
-    "assets/images/who-ami/_NDP3292.jpg",
-    "assets/images/who-ami/_NDP3315.jpg",
+     
     "https://res.cloudinary.com/dw4ytpinj/image/upload/v1748064731/1000005081_k7cuq4.jpg",
     "https://res.cloudinary.com/dw4ytpinj/image/upload/v1748064840/1000005100_mjdpsb.jpg",
     "https://res.cloudinary.com/dw4ytpinj/image/upload/v1748063757/1000005264_ess2u6.jpg",
