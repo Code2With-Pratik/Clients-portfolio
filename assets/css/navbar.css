@@ -93,15 +93,16 @@ Start NavBer Css
 
 .navbar.toggle-menu-two .navbar-nav .nav-item .nav-link {
   padding: 0 0;
-  color: var(--whiteColor);
+  color: var(--blackColor);
+  font-weight: bold;
 }
 
 .navbar.toggle-menu-two .menu-btn {
   border: none;
   font-family: var(--fontFamily);
-  font-weight: 500;
+  font-weight: bold;
   line-height: 30px;
-  color: var(--whiteColor);
+  color: var(--blackColor);
   font-size: 16px;
   background-color: transparent;
   padding-right: 49px;
@@ -129,7 +130,7 @@ Start NavBer Css
   position: absolute;
   width: 32px;
   height: 2px;
-  background-color: var(--whiteColor);
+  background-color: var(--blackColor);
   right: 0;
   top: 40%;
   -webkit-transform: translateY(-50%);
@@ -144,7 +145,7 @@ Start NavBer Css
   position: absolute;
   width: 20px;
   height: 2px;
-  background-color: var(--whiteColor);
+  background-color: var(--blackColor);
   right: 11px;
   bottom: 0;
   top: 70%;
