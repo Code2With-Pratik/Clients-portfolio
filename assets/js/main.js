@@ -417,8 +417,6 @@ const projectImages = [
     `;
   });
 
-
-
 const blogVideoLinks = [
   "https://youtu.be/AO2scScLG4I?si=kSScXUPF5LjTzq4S",
   "https://youtu.be/MbqkjU_Y5Pw?si=vSDKzsBZjWPp6dtl",
