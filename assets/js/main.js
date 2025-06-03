@@ -256,8 +256,7 @@
         })();
     } catch (err) {}
 
-    
-	// scrollCue Animate
+    // scrollCue Animate
 	scrollCue.init();
     
     // Navbar  Sticky
